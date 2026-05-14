@@ -40,7 +40,7 @@ Using the equations above, determine the dispersion-limited fiber length.
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
 # Tabulation
 
-<img width="1042" height="1600" alt="WhatsApp Image 2026-05-14 at 2 08 23 PM" src="https://github.com/user-attachments/assets/0665fd85-5632-47ee-8518-b0542422b0ab" />
+<img width="1042" height="1600" alt="WhatsApp Image 2026-05-14 at 2 08 23 PM" src="https://github.com/user-attachments/assets/88471b7a-c0d6-432f-b49b-cc7daf73726d" />
 
 <img width="1913" height="1078" alt="Screenshot 2026-05-14 135039" src="https://github.com/user-attachments/assets/f4acba5f-4bef-4d59-b014-50ca931d038c" />
 
